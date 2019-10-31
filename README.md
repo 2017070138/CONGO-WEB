@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>GONGO WEB SITE</title>
+	
 </head>
 <body>
+	<h1>GONGO WEB SITE</h1>
 	<hr>
 	<h2>Introduction</h2> 
     <p> In this web site I am going to present my country  Congo-Brazzaville also known as the Republic of the Congo, Congo is a country in Central Africa. It borders Central African Republic and Cameroon to the North, the Democratic Republic of the Congo to the east and south, Angola 's exclave of Cabinda to the south, Gabon to the west and Atlantic Ocean to the southwest. The capital of Congo-Brazzaville is Brazzaville. Official language is French, but Lingala and Kituba are also widely used. The currency used in Congo-Brazzaville is Central African CFA franc.Congo-Brazzaville is one of the largest producer of oil in the Gulf of Guinea, and apart from that, Congo-Brazzaville is one of the best tourist destinations, the scenery and landscapes are one of the best in the world.</p>
