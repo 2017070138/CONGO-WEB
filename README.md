@@ -41,12 +41,12 @@
 	<h2>Plan for project</h2>
 	<ul>
 		<li>week9- I am going to  work on my web site home page</li>
-		<li>week10- I am going to work on the second page of my web site</li>
+		<li>week10-I am going to work on the second page of my web site</li>
 		<li>week11-I am going to  work on the third page of my web site</li>
 		<li>week12-I am going to  work on the fourth page of my web site</li>
 		<li>week13-I am going to  work on tne fifth and sixth page of my web sitte</li>
-		<li>week14-MaI am going to work on the seventh page of my web site </li>
-		<li>week15-am going to work on the backend my web site</li>
+		<li>week14-I am going to work on the seventh page of my web site </li>
+		<li>week15-I am going to work on the backend my web site</li>
 		<li>week16-Submit Project</li>
 	</ul>
 </body>
