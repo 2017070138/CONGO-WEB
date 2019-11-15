@@ -23,7 +23,7 @@
 		<li>Contact
 </li>
 		
-<p>For better illustrations i am going to use pictures and short videos.And in every page It will have one button that lead to the next the page.
+<p>For better illustrations i am going to use pictures and short videos.
 </p>
 	</ol>
 	<h2>Technology</h2>
