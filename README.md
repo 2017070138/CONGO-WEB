@@ -26,7 +26,6 @@
 <p>For better illustrations i am going to use pictures and short videos.
 </p>
 	</ol>
-
 	<h2>Technology</h2>
 	<ul>
 		<li>HTML</li>
@@ -45,10 +44,6 @@
 		<li>week14-MaI am going to work on the backend of my web site </li>
 		<li>week15-am going to finish all my web site backend</li>
 		<li>week16-Submit Project</li>
-	
 	</ul>
-		
-
-
 </body>
 </html>
