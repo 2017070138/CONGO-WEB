@@ -16,18 +16,13 @@
 </p>
 		<li>Home page
 </li>
-		<li>History of my country
+		<li>About
 </li>
-		<li>Culture of my country
+		<li>Gallery
 </li>
-		<li>Food and various
+		<li>Contact
 </li>
-		<li>Region
-</li>
-		<li>Map
-</li>
-		<li>National anthem
-</li>
+		
 <p>For better illustrations i am going to use pictures and short videos.And in every page It will have one button that lead to the next the page.
 </p>
 	</ol>
@@ -46,8 +41,6 @@
 		<li>week10-I am going to work on the second page of my web site</li>
 		<li>week11-I am going to  work on the third page of my web site</li>
 		<li>week12-I am going to  work on the fourth page of my web site</li>
-		<li>week13-I am going to  work on tne fifth and sixth page of my web sitte</li>
-		<li>week14-I am going to work on the seventh page of my web site </li>
 		<li>week15-I am going to work on the backend my web site</li>
 		<li>week16-Submit Project</li>
 	</ul>
