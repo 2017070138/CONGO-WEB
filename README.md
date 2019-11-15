@@ -41,7 +41,9 @@
 		<li>week10-I am going to work on the second page of my web site</li>
 		<li>week11-I am going to  work on the third page of my web site</li>
 		<li>week12-I am going to  work on the fourth page of my web site</li>
-		<li>week15-I am going to work on the backend my web site</li>
+	        <li>week13-I am going tofinish all frontend of my web site</li>
+		<li>week14-I am going to work on the backend my web site</li>
+	        <li>week15-I am going to finish all backend my web site</li>
 		<li>week16-Submit Project</li>
 	</ul>
 </body>
