@@ -33,6 +33,10 @@
 		<li>Botstrap4</li>
 		<li>JQuery</li>
 		<li>javascript</li>
+	        <li>heroku</li>
+	        <li>Nodejs</li>
+	        <li>expressjs</li>
+	        <li>Mongodb</li>
 	</ul>
 	<h2>Plan for project</h2>
 	<ul>
