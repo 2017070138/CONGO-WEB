@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
+	<title>ReadMe</title>
 </head>
 <body>
 	<h1>GONGO WEB SITE</h1>
@@ -16,19 +16,14 @@
 </p>
 		<li>Home page
 </li>
-		<li>History of my country
+		<li>About
 </li>
-		<li>Culture of my country
+		<li>Gallery
 </li>
-		<li>Food and various
+		<li>Contact
 </li>
-		<li>Region
-</li>
-		<li>Map
-</li>
-		<li>National anthem
-</li>
-<p>For better illustrations i am going to use pictures and short videos.And in every page It will have one button that lead to the next the page.
+		
+<p>For better illustrations i am going to use pictures and short videos.
 </p>
 	</ol>
 	<h2>Technology</h2>
@@ -38,17 +33,20 @@
 		<li>Botstrap4</li>
 		<li>JQuery</li>
 		<li>javascript</li>
-		<li>BackEnd</li>
+	        <li>heroku</li>
+	        <li>Nodejs</li>
+	        <li>expressjs</li>
+	        <li>Mongodb</li>
 	</ul>
 	<h2>Plan for project</h2>
 	<ul>
 		<li>week9- I am going to  work on my web site home page</li>
-		<li>week10-I am going to work on the second page of my web site</li>
+		<li>week10- I am going to work on the second page of my web site</li>
 		<li>week11-I am going to  work on the third page of my web site</li>
 		<li>week12-I am going to  work on the fourth page of my web site</li>
-		<li>week13-I am going to  work on tne fifth and sixth page of my web sitte</li>
-		<li>week14-I am going to work on the seventh page of my web site </li>
-		<li>week15-I am going to work on the backend my web site</li>
+		<li>week13-I am going to  finish all my web site frontend</li>
+		<li>week14-MaI am going to work on the backend of my web site </li>
+		<li>week15-am going to finish all my web site backend</li>
 		<li>week16-Submit Project</li>
 	</ul>
 </body>
