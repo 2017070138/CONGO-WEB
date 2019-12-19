@@ -12,7 +12,7 @@
       </p>
 	<h2>Features</h2>
 	<ol>
-		<p>My website will have seven page : 
+		<p>My website will have five page : 
 </p>
 		<li>Home page
 </li>
@@ -20,7 +20,10 @@
 </li>
 		<li>Gallery
 </li>
-		<li>Contact
+		<li>Contact		
+</li>
+		<li>login/signup
+			
 </li>
 		
 <p>For better illustrations i am going to use pictures and short videos.
